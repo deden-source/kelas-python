@@ -1,0 +1,23 @@
+li {
+    text-align: center;
+    font-size: 18px;
+    font-size: helvetica;
+    font-weight: bold;
+    list-style-type: none;
+    }
+    p {
+        text-align: center;
+        font-family: Helvetica;
+    }
+    h1 {
+        background-color: skyblue;
+        text-align: center;
+        font-family:Impact;
+    }
+    a {
+    text-decoration: none;
+    }
+    a:hover {
+        text-decoration: none;
+        color: red
+    }
