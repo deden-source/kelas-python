@@ -13,3 +13,4 @@ print(x)
 
 
 ### update perubahan lewat vsc
+### ini saya  update dari github.com supaya ada perubahan
